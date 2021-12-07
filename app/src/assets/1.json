@@ -1,0 +1,19 @@
+{
+  "name": "CryptoShroom #2",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "DhTNrwACAMuTNsSRLxB3LH4trCBYQFBjTz6DDE8oF3Pq",
+        "share": 100
+      }
+    ]
+  }
+}
