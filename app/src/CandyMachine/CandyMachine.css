@@ -1,6 +1,18 @@
 .machine-container {
   display: flex;
   flex-direction: column;
+  background-color: rgb(48, 196, 255);
+  color: black;
+  border-style: solid;
+  border-width: 5px;
+  border-color: lime;
+  padding-bottom: 15px;
+  border-radius: 5%;
+  -webkit-border-radius: 5%;
+  -moz-border-radius: 5%;
+  -ms-border-radius: 5%;
+  -o-border-radius: 5%;
+  box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.065), 0 2px 2px hsl(0deg 0% 0% / 0.065), 0 4px 4px hsl(0deg 0% 0% / 0.065), 0 8px 8px hsl(0deg 0% 0% / 0.065), 0 16px 16px hsl(0deg 0% 0% / 0.065);
 }
 
 .gif-container {

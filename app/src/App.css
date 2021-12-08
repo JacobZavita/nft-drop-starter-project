@@ -1,6 +1,6 @@
 .App {
   height: 100vh;
-  background-color: rgb(20, 20, 20);
+  background-color: rgb(255, 105, 160);
   overflow: scroll;
   text-align: center;
   overflow: hidden;
@@ -51,6 +51,7 @@
   width: auto;
   padding-left: 40px;
   padding-right: 40px;
+  margin: 10px;
   border-radius: 10px;
   cursor: pointer;
   font-size: 16px;
